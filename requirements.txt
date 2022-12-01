@@ -2,5 +2,4 @@ pandas
 numpy
 matplotlib
 uk_covid19
-time
 voila
